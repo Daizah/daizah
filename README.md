@@ -3,7 +3,7 @@
 
 Project Management Professional with 5+ years in B2B telecom, delivering enterprise solutions at Verizon, T-Mobile and AT&T. I use GitHub to document real project work, publish reusable PM templates, and showcase the tools and trackers I've built.
 
-🌐 [pattersonstrategicsolutions.com](http://pattersonstrategicsolutions.com) · 📧 [infp@pattersonstrategicsolutions.com](mailto:info@pattersonstrategicsolutions.com) · 💼 [LinkedIn](https://linkedin.com/in/daizahpatterson)
+🌐 [Pattersonstrategicsolutions.com](http://pattersonstrategicsolutions.com) · 📧 [Info@pattersonstrategicsolutions.com](mailto:info@pattersonstrategicsolutions.com) · 💼 [LinkedIn](https://linkedin.com/in/daizahpatterson)
 
 ---
 
