@@ -1,4 +1,4 @@
-# Hi, I'm Daizah Patterson 👋
+# Hi, I'm Daizah P. 👋
 **MBA · PMP · PSM · Dallas, TX**
 
 Project Management Professional with 5+ years in B2B telecom, delivering enterprise solutions at Verizon, T-Mobile and AT&T. I use GitHub to document real project work, publish reusable PM templates, and showcase the tools and trackers I've built.
@@ -12,9 +12,9 @@ Project Management Professional with 5+ years in B2B telecom, delivering enterpr
 | Repository | What's Inside |
 |---|---|
 | [pm-portfolio](https://daizah.github.io/pm-portfolio) | Live portfolio — projects, trackers, and work samples |
-| [48in48-nonprofit-projects](https://github.com/Daizah/48in48-nonprofit-projects) | 5 nonprofit website launches delivered in 48-hour Agile sprints |
+| [48in48-nonprofit-projects](https://github.com/Daizah/48in48-nonprofit-projects) | Nonprofit website launches delivered in 48-hour Agile sprints |
 | [pm-templates-toolkit](https://github.com/Daizah/pm-templates-toolkit) | RAID logs, project charters, status reports, onboarding guides |
-| [aws-cloud-journey](https://github.com/Daizah/aws-cloud-journey) | Notes and progress from my AWS Cloud Practitioner certification path |
+| [aws-cloud-journey](https://github.com/Daizah/aws-cloud-journey) | Projects completed from my AWS Cloud Practitioner certification path |
 
 ---
 
