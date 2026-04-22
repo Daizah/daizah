@@ -1,40 +1,34 @@
-## Hi, I'm Daizah Patterson 👋
+# Hi, I'm Daizah Patterson 👋
+**MBA · PMP · PSM · Dallas, TX**
 
-**MBA | PMP | PSM | AWS Cloud Practitioner (In Progress)**
+Project Management Professional with 5+ years in B2B telecom, delivering enterprise solutions at T-Mobile and Verizon. I use GitHub to document real project work, publish reusable PM templates, and showcase the tools and trackers I've built.
 
-Project Management Professional with 5+ years in B2B telecom, pivoting into dedicated PM and cloud-adjacent roles. I use this space to document my project work, share reusable PM templates, and track my cloud learning journey.
+🌐 [pattersonstrategicsolutions.com](http://pattersonstrategicsolutions.com) · 📧 [Daizahpatterson@gmail.com](mailto:Daizahpatterson@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/daizahpatterson)
 
 ---
 
-## 🗂️ What You'll Find Here
+## 🗂️ Featured Repositories
 
-| Repository | Description |
+| Repository | What's Inside |
 |---|---|
-| [48in48-nonprofit-projects](https://github.com/daizah/48in48-nonprofit-projects) | Website build projects led as PM during 48-hour nonprofit sprints |
-| [volunteer-pm-projects](https://github.com/daizah/volunteer-pm-projects) | Ongoing volunteer project management work |
-| [pm-templates-toolkit](https://github.com/daizah/pm-templates-toolkit) | RAID logs, project charters, status reports, and onboarding docs |
-| [aws-cloud-journey](https://github.com/daizah/aws-cloud-journey) | Notes, study progress, and resources from my AWS certification path |
+| [pm-portfolio](https://daizah.github.io/pm-portfolio) | Live portfolio — projects, trackers, and work samples |
+| [48in48-nonprofit-projects](https://github.com/Daizah/48in48-nonprofit-projects) | 5 nonprofit website launches delivered in 48-hour Agile sprints |
+| [pm-templates-toolkit](https://github.com/Daizah/pm-templates-toolkit) | RAID logs, project charters, status reports, onboarding guides |
+| [aws-cloud-journey](https://github.com/Daizah/aws-cloud-journey) | Notes and progress from my AWS Cloud Practitioner certification path |
 
 ---
 
-## 🏆 Certifications & Education
+## 🏆 Certifications
 
-- 🎓 MBA, Clayton State University, 2025
-- 📋 **PMP**, Project Management Professional, PMI (June 2024)
-- 🔄 **PSM**, Professional Scrum Master, Scrum.org (Sept. 2023)
-- ☁️ **AWS Certified Cloud Practitioner**, In Progress (2026)
+- 📋 **PMP** — Project Management Professional, PMI (2024)
+- 🔄 **PSM** — Professional Scrum Master, Scrum.org (2023)
+- 🎓 **MBA** — Clayton State University (2025)
+- ☁️ **AWS Cloud Practitioner** — In Progress (2026)
 
 ---
 
 ## 🛠️ Tools & Skills
 
-`Jira` `Microsoft Project` `Workfront` `Salesforce` `SQL` `Python` `Power BI` `Excel` `AWS (in progress)`
+`Jira` `Microsoft Project` `Workfront` `Salesforce` `Power BI` `Excel` `SQL` `AWS (in progress)`
 
-**PM Practices:** Agile/Scrum · SDLC · RAID Logs · Stakeholder Reporting · Risk Management · Process Optimization
-
----
-
-## 📬 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/daizahpatterson)
-- 📧 Daizahpatterson@gmail.com
+**PM Practices:** Agile · Scrum · SDLC · RAID Logs · Stakeholder Reporting · Risk Management · Process Optimization
