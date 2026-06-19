@@ -1,4 +1,4 @@
-![Daizah Patterson](banner.svg)
+![Daizah Patterson](banner.png)
 
 # Hi, I'm Daizah! 👋
 
