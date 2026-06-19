@@ -1,8 +1,6 @@
-![Daizah Patterson](banner.png)
+![Daizah Patterson](https://raw.githubusercontent.com/Daizah/Daizah/main/banner.png)
 
 # Hi, I'm Daizah! 👋
-
-**MBA · PMP · PSM · Dallas, TX**
 
 Project manager, dashboard builder, and web designer with 5+ years in B2B telecom. I use GitHub to document real project work, publish free PM templates, and showcase the tools and websites I've built.
 
@@ -14,7 +12,7 @@ I believe great execution is a skill, not an accident. Every project I take on g
 
 ## 🚀 Currently Working On
 
-- Building out my AWS cloud projects as I work toward Solutions Architect
+- Building out AWS cloud projects toward Solutions Architect certification
 - Learning Python for automation and data scripting
 - Taking on freelance PM and web design clients through [Patterson Strategic Solutions](http://pattersonstrategicsolutions.com)
 
@@ -28,15 +26,6 @@ I believe great execution is a skill, not an accident. Every project I take on g
 | [pm-templates-toolkit](https://github.com/Daizah/pm-templates-toolkit) | 9 free PM templates: RAID logs, project charters, status reports, and more |
 | [aws-cloud-journey](https://github.com/Daizah/aws-cloud-journey) | AWS certification path, hands-on projects, and concepts learned |
 | [python-projects](https://github.com/Daizah/python-projects) | Python scripts and beginner-to-intermediate projects |
-
----
-
-## 🏆 Certifications
-
-- 📋 **PMP** - Project Management Professional, PMI (2024)
-- 🔄 **PSM** - Professional Scrum Master, Scrum.org (2023)
-- 🎓 **MBA** - Clayton State University (2025)
-- ☁️ **AWS Cloud Practitioner** - Amazon Web Services
 
 ---
 
