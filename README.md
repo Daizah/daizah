@@ -1,5 +1,3 @@
-![Daizah Patterson](banner.svg)
-
 # Hi, I'm Daizah! 👋
 
 **MBA · PMP · PSM · Dallas, TX**
